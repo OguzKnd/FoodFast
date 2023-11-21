@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "80AC2B32-E557-4C74-8F0C-10F4AFD4F334"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "148445B5-D516-44A6-91F9-2731D54FED16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "sepettekiYemekleriGetir(kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF3D60E3-56EF-45B5-8F21-4826F7E2C435"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E561903D-7B1F-47F0-875A-6E09D37B739B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "558DD1E2-B45F-49AF-B63C-4255CE37A6C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "558DD1E2-B45F-49AF-B63C-4255CE37A6C6 - 9fce5f14df0b0125"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.YemeklerDaoRepository.sepeteYemekEkle(yemek_adi: Swift.String, yemek_fiyat: Swift.Int, yemek_resim_adi: Swift.String, yemek_siparis_adet: Swift.Int, kullanici_adi: Swift.String) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/Repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "558DD1E2-B45F-49AF-B63C-4255CE37A6C6 - 458e074adc640c1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in Bitirme_Projesi.YemeklerDaoRepository.sepeteYemekEkle(yemek_adi: Swift.String, yemek_fiyat: Swift.Int, yemek_resim_adi: Swift.String, yemek_siparis_adet: Swift.Int, kullanici_adi: Swift.String) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/Repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "558DD1E2-B45F-49AF-B63C-4255CE37A6C6 - 9fce5f14df0b00ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.YemeklerDaoRepository.sepeteYemekEkle(yemek_adi: Swift.String, yemek_fiyat: Swift.Int, yemek_resim_adi: Swift.String, yemek_siparis_adet: Swift.Int, kullanici_adi: Swift.String) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/Repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "558DD1E2-B45F-49AF-B63C-4255CE37A6C6 - 458e074adc640d59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in Bitirme_Projesi.YemeklerDaoRepository.sepeteYemekEkle(yemek_adi: Swift.String, yemek_fiyat: Swift.Int, yemek_resim_adi: Swift.String, yemek_siparis_adet: Swift.Int, kullanici_adi: Swift.String) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/Repo/YemeklerDaoRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D43A3F7A-0C92-4936-8E93-E6A5841B5260"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22A21B4F-3A27-4162-AD72-6FA9E9637731"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9618B514-AE19-4A76-87A4-6A5CE3D175BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B68DED10-9B0E-4184-8DF5-DDC4A3B6D817"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41D39A2F-5A8D-4629-9D6D-DC5678BAA9C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78A20791-9070-46C5-A2C6-E8FA20D45DDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8938A9F2-A8B4-403E-A2D7-974F68FA6D4E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/Repo/YemeklerDaoRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "sepeteYemekEkle(yemek_adi:yemek_fiyat:yemek_resim_adi:yemek_siparis_adet:kullanici_adi:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86322168-9709-4907-9D99-72E138A3EA01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86322168-9709-4907-9D99-72E138A3EA01 - cd979d3a74718ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.saksoButonTiklandi(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "86322168-9709-4907-9D99-72E138A3EA01 - 997642f25977b077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "86322168-9709-4907-9D99-72E138A3EA01 - 997642f25977b194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "86322168-9709-4907-9D99-72E138A3EA01 - 997642f25977b194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "86322168-9709-4907-9D99-72E138A3EA01 - 997642f25977b194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76C04E39-2BB0-4EAB-A52E-4EC001A50145"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76C04E39-2BB0-4EAB-A52E-4EC001A50145 - 997642f25977b0da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "1780">
+               </Location>
+               <Location
+                  uuid = "76C04E39-2BB0-4EAB-A52E-4EC001A50145 - 997642f25977b0fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1496">
+               </Location>
+               <Location
+                  uuid = "76C04E39-2BB0-4EAB-A52E-4EC001A50145 - 997642f25977b0fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+               <Location
+                  uuid = "76C04E39-2BB0-4EAB-A52E-4EC001A50145 - 997642f25977b0fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A418FE06-CDF0-4AC0-BE45-EF918BF8A114"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A418FE06-CDF0-4AC0-BE45-EF918BF8A114 - 522fc779058778e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "A418FE06-CDF0-4AC0-BE45-EF918BF8A114 - 522fc779058778e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "A418FE06-CDF0-4AC0-BE45-EF918BF8A114 - 522fc779058778e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "A418FE06-CDF0-4AC0-BE45-EF918BF8A114 - 997642f25977b056"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  uuid = "A418FE06-CDF0-4AC0-BE45-EF918BF8A114 - 997642f25977b056"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A492334F-78AD-4454-8010-080FA1D35D49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A492334F-78AD-4454-8010-080FA1D35D49 - 522fc77905877bfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2132">
+               </Location>
+               <Location
+                  uuid = "A492334F-78AD-4454-8010-080FA1D35D49 - 522fc77905877b39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2268">
+               </Location>
+               <Location
+                  uuid = "A492334F-78AD-4454-8010-080FA1D35D49 - 522fc77905877867"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+               <Location
+                  uuid = "A492334F-78AD-4454-8010-080FA1D35D49 - 997642f25977b0bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  uuid = "A492334F-78AD-4454-8010-080FA1D35D49 - 997642f25977b0bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93AE70E6-883D-42EE-9D53-8D920B52A556"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93AE70E6-883D-42EE-9D53-8D920B52A556 - 522fc77905877bfb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2132">
+               </Location>
+               <Location
+                  uuid = "93AE70E6-883D-42EE-9D53-8D920B52A556 - 522fc77905877b39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2268">
+               </Location>
+               <Location
+                  uuid = "93AE70E6-883D-42EE-9D53-8D920B52A556 - 522fc77905877ba5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(Any) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+               <Location
+                  uuid = "93AE70E6-883D-42EE-9D53-8D920B52A556 - 997642f25977b37f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "93AE70E6-883D-42EE-9D53-8D920B52A556 - 997642f25977b37f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8920C53-28A0-4540-8B61-D456B172339E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DBE8FC2-1E7D-45F7-A185-0BB7F0367AA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2DBE8FC2-1E7D-45F7-A185-0BB7F0367AA8 - 706da63f9d610f09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "2DBE8FC2-1E7D-45F7-A185-0BB7F0367AA8 - 706da63f9d610fcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "2DBE8FC2-1E7D-45F7-A185-0BB7F0367AA8 - 706da63f9d610fcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00348DF6-B930-4AE2-9C6A-0EF4B5B9D5AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E555FA72-CA30-4E55-BF3F-4C02D560CADE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E555FA72-CA30-4E55-BF3F-4C02D560CADE - 706da63f9d610811"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1720">
+               </Location>
+               <Location
+                  uuid = "E555FA72-CA30-4E55-BF3F-4C02D560CADE - 706da63f9d610811"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C3F3A66-F4FD-4A79-A235-779C53DB46F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C3F3A66-F4FD-4A79-A235-779C53DB46F2 - 706da63f9d610938"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "3472">
+               </Location>
+               <Location
+                  uuid = "3C3F3A66-F4FD-4A79-A235-779C53DB46F2 - 706da63f9d610938"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "3652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E88CE7E2-7006-44B7-B1FA-2202378705D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E88CE7E2-7006-44B7-B1FA-2202378705D4 - 706da63f9d6108d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1932">
+               </Location>
+               <Location
+                  uuid = "E88CE7E2-7006-44B7-B1FA-2202378705D4 - 706da63f9d6108d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1976">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6069AAB8-6ECE-44B8-AD35-04B036CB0E97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6069AAB8-6ECE-44B8-AD35-04B036CB0E97 - 706da63f9d6108bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "2180">
+               </Location>
+               <Location
+                  uuid = "6069AAB8-6ECE-44B8-AD35-04B036CB0E97 - 706da63f9d6108bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "2224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08F92BE1-1259-4F5D-90BA-74B250CFA335"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08F92BE1-1259-4F5D-90BA-74B250CFA335 - 706da63f9d61089d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "2408">
+               </Location>
+               <Location
+                  uuid = "08F92BE1-1259-4F5D-90BA-74B250CFA335 - 706da63f9d61089d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "2456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78CE5F0C-95CF-4B95-A2AA-A4A96BD3415A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78CE5F0C-95CF-4B95-A2AA-A4A96BD3415A - 706da63f9d61097e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2872">
+               </Location>
+               <Location
+                  uuid = "78CE5F0C-95CF-4B95-A2AA-A4A96BD3415A - 706da63f9d61097e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "2976">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C683C396-0D7E-43F0-BA46-2D89CCC508AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9887615F-FE8A-482E-B9C7-994AC73BD3F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9887615F-FE8A-482E-B9C7-994AC73BD3F8 - 47281c8f87262771"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "9887615F-FE8A-482E-B9C7-994AC73BD3F8 - b3b18caa80a917e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "9887615F-FE8A-482E-B9C7-994AC73BD3F8 - 47281c8f87262710"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "9887615F-FE8A-482E-B9C7-994AC73BD3F8 - b3b18caa80a917c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A4C96A2-FD68-4A47-A8B2-20924777C9F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A4C96A2-FD68-4A47-A8B2-20924777C9F1 - b3b18caa80a917e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "8A4C96A2-FD68-4A47-A8B2-20924777C9F1 - b3b18caa80a917c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFF4205D-644E-47AA-8D69-85E7745A0340"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFF4205D-644E-47AA-8D69-85E7745A0340 - b3b18caa80a917c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "CFF4205D-644E-47AA-8D69-85E7745A0340 - b3b18caa80a91704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "444">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE27E368-4A00-41EC-B70A-C7E346B02B8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE27E368-4A00-41EC-B70A-C7E346B02B8C - 2223054f633a71bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "AE27E368-4A00-41EC-B70A-C7E346B02B8C - 2223054f633a703b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE371651-3595-41EC-A086-1E3E50284548"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE371651-3595-41EC-A086-1E3E50284548 - b3b18caa80a91727"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "AE371651-3595-41EC-A086-1E3E50284548 - b3b18caa80a9174a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F27E59E3-1393-4C0B-8F1D-58B8D1950890"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetSayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F27E59E3-1393-4C0B-8F1D-58B8D1950890 - b3b18caa80a91765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "F27E59E3-1393-4C0B-8F1D-58B8D1950890 - 2223054f633a71bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F27E59E3-1393-4C0B-8F1D-58B8D1950890 - b3b18caa80a916e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "F27E59E3-1393-4C0B-8F1D-58B8D1950890 - 2223054f633a703b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIAlertAction) -&gt; () in closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in Bitirme_Projesi.SepetSayfa.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetSayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF50B855-86BA-490F-B0B5-11483FE8374F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF50B855-86BA-490F-B0B5-11483FE8374F - 997642f25977b194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "EF50B855-86BA-490F-B0B5-11483FE8374F - 997642f25977b194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1C2C832-545E-401D-B7CA-B54EEDAB3246"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1C2C832-545E-401D-B7CA-B54EEDAB3246 - 997642f25977b077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "B1C2C832-545E-401D-B7CA-B54EEDAB3246 - 997642f25977b077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2352240-94C5-4101-A1CA-BA56EFCA829E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C2352240-94C5-4101-A1CA-BA56EFCA829E - 997642f25977b0bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  uuid = "C2352240-94C5-4101-A1CA-BA56EFCA829E - 997642f25977b0bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E779E313-1706-4C6C-8B24-D8F5FEB4ADDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "sepeteEkleButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E779E313-1706-4C6C-8B24-D8F5FEB4ADDE - 997642f25977b37f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "E779E313-1706-4C6C-8B24-D8F5FEB4ADDE - 997642f25977b37f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.DetaySayfa.sepeteEkleButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/DetaySayfa.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE500642-CB3A-4F7F-BFF6-253EA708F770"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "eksiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5930BFF-3358-41A7-BD75-0AA4C1BF4AF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "eksiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43247600-5EF6-4F73-AAC2-F9CF2D1B1CB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "eksiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54BCB060-1F23-4A3E-BBA8-D08F6EAD9D1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "eksiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB3EFC13-C810-44FC-A6F3-E012F4FB7EFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "eksiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C02E4B3C-61E4-43F7-894E-BB16A39513C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "artiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "888F384F-4A06-4B64-B462-90B06DD5D607"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "artiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F785DAD4-029A-4335-9590-F9A48AE22E37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "artiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B84C113-4E23-4067-ACED-76BFEEFC0264"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "artiButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34E082B7-B74A-4AC6-A899-8A759F8DCCAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/DetaySayfa.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "DetaySayfa"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8529C1E0-3D52-4AE8-8A99-0348A6F4C696"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetTableView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "eksiButtonTiklandi(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8529C1E0-3D52-4AE8-8A99-0348A6F4C696 - f31c8b902e106dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetTableView.eksiButtonTiklandi(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetTableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "8529C1E0-3D52-4AE8-8A99-0348A6F4C696 - f31c8b902e1061f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bitirme_Projesi.SepetTableView.eksiButtonTiklandi(__C.UIButton) -&gt; ()"
+                  moduleName = "Bitirme Projesi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguz/Desktop/IOS%20Bootcamp%20TR/Bitirme%20Projesi/Bitirme%20Projesi/SepetTableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "822A2A40-F1F1-4B4E-BFA6-651D12D2AEA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetTableView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "artiButtonTiklandi(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4766F1F9-8420-4E67-AD55-7B1CA3EEDE44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bitirme Projesi/SepetTableView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "artiButtonTiklandi(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
